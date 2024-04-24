@@ -1,0 +1,492 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Doppio+One:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&ver=6.5.2&display=swap
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Source+Sans+Pro:400%2C300%2C300italic%2C400italic%2C600%2C700%2C900&subset=latin%2Clatin-ext&ver=4.5.2&display=swap
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/doppioone/v13/Gg8wN5gSaBfyBw2MqCh-pgwrLA.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\doppioone\v13\Gg8wN5gSaBfyBw2MqCh-pgwrLA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7psDc.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\sourcesanspro\v22\6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7psDc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7g.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\sourcesanspro\v22\6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidi18E.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidi18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmRdr.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmRdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmRdr.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmRdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmRdr.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmRdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmRdr.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmRdr.ttf
+Content Type: font/ttf
+
+Uri: https://lojaodocaipira.com.br/comments/feed/
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://lojaodocaipira.com.br/equi-nutri-complete/
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\equi-nutri-complete\index.htm
+Content Type: text/html
+
+Uri: https://lojaodocaipira.com.br/feed/
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://lojaodocaipira.com.br/wp-content/cache/perfmatters/lojaodocaipira.com.br/css/page-341.used.css
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\cache\perfmatters\lojaodocaipira.com.br\css\page-341.used.css
+Content Type: text/css
+
+Uri: https://lojaodocaipira.com.br/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.5.5
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://lojaodocaipira.com.br/wp-content/plugins/woocommerce/assets/fonts/star.eot
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\plugins\woocommerce\assets\fonts\star.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lojaodocaipira.com.br/wp-content/plugins/woocommerce/assets/fonts/star.eot?
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\plugins\woocommerce\assets\fonts\star-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lojaodocaipira.com.br/wp-content/plugins/woocommerce/assets/fonts/star.svg
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\plugins\woocommerce\assets\fonts\star.svg
+Content Type: image/svg+xml
+
+Uri: https://lojaodocaipira.com.br/wp-content/plugins/woocommerce/assets/fonts/star.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\plugins\woocommerce\assets\fonts\star.ttf
+Content Type: font/ttf
+
+Uri: https://lojaodocaipira.com.br/wp-content/plugins/woocommerce/assets/fonts/star.woff
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\plugins\woocommerce\assets\fonts\star.woff
+Content Type: font/woff
+
+Uri: https://lojaodocaipira.com.br/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lojaodocaipira.com.br/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot?
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\plugins\woocommerce\assets\fonts\WooCommerce-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lojaodocaipira.com.br/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.svg
+Content Type: image/svg+xml
+
+Uri: https://lojaodocaipira.com.br/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.ttf
+Content Type: font/ttf
+
+Uri: https://lojaodocaipira.com.br/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.woff
+Content Type: font/woff
+
+Uri: https://lojaodocaipira.com.br/wp-content/plugins/wp-rocket/assets/img/youtube.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\plugins\wp-rocket\assets\img\youtube.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\plugins\wp-rocket\assets\js\lazyload\17.8.3\lazyload.min.js
+Content Type: application/javascript
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Balde-PNG-100x100.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Balde-PNG-100x100.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Balde-PNG-150x150.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Balde-PNG-150x150.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Balde-PNG-300x300.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Balde-PNG-300x300.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Balde-PNG-324x324.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Balde-PNG-324x324.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Balde-PNG-416x416.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Balde-PNG-416x416.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Balde-PNG.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Balde-PNG.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Baldes-100x100.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Baldes-100x100.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Baldes-150x150.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Baldes-150x150.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Baldes-300x300.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Baldes-300x300.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Baldes-324x324.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Baldes-324x324.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Baldes-416x416.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Baldes-416x416.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Baldes.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Baldes.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Cavalo-PNG-416x491.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Cavalo-PNG-416x491.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/cropped-Lojao-Logo-180x180.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\cropped-Lojao-Logo-180x180.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/cropped-Lojao-Logo-192x192.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\cropped-Lojao-Logo-192x192.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/cropped-Lojao-Logo-32x32.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\cropped-Lojao-Logo-32x32.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Doses-diarias-100x100.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Doses-diarias-100x100.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Doses-diarias-150x150.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Doses-diarias-150x150.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Doses-diarias-300x300.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Doses-diarias-300x300.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Doses-diarias-324x324.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Doses-diarias-324x324.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Doses-diarias-416x416.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Doses-diarias-416x416.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Doses-diarias.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Doses-diarias.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Icone-creatina-100x100.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Icone-creatina-100x100.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Icone-creatina.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Icone-creatina.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Icone-Lisina-100x100.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Icone-Lisina-100x100.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Icone-Lisina.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Icone-Lisina.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Icone-Vit-B-100x100.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Icone-Vit-B-100x100.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Icone-Vit-B.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Icone-Vit-B.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/ML-1-300x102.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\ML-1-300x102.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/ML-1-324x110.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\ML-1-324x110.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/ML-1-416x141.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\ML-1-416x141.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/ML-1-768x261.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\ML-1-768x261.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/ML-1.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\ML-1.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Selos-1024x221.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Selos-1024x221.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Selos-1536x332.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Selos-1536x332.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Selos-2048x442.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Selos-2048x442.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Selos-300x65.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Selos-300x65.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Selos-324x70.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Selos-324x70.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Selos-416x90.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Selos-416x90.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Selos-768x166.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Selos-768x166.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Selos.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Selos.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Versao-10KG-100x100.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Versao-10KG-100x100.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Versao-10KG-150x150.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Versao-10KG-150x150.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Versao-10KG-300x300.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Versao-10KG-300x300.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Versao-10KG-324x324.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Versao-10KG-324x324.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Versao-10KG-416x416.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Versao-10KG-416x416.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Versao-10KG.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Versao-10KG.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Versao-1KG-100x100.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Versao-1KG-100x100.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Versao-1KG-150x150.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Versao-1KG-150x150.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Versao-1KG-300x300.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Versao-1KG-300x300.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Versao-1KG-324x324.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Versao-1KG-324x324.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Versao-1KG-416x416.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Versao-1KG-416x416.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Versao-1KG.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Versao-1KG.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Versao-2KG-100x100.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Versao-2KG-100x100.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Versao-2KG-150x150.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Versao-2KG-150x150.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Versao-2KG-300x300.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Versao-2KG-300x300.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Versao-2KG-324x324.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Versao-2KG-324x324.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Versao-2KG-416x416.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Versao-2KG-416x416.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Versao-2KG.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Versao-2KG.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Versao-5KG-100x100.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Versao-5KG-100x100.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Versao-5KG-150x150.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Versao-5KG-150x150.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Versao-5KG-300x300.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Versao-5KG-300x300.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Versao-5KG-324x324.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Versao-5KG-324x324.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Versao-5KG-416x416.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Versao-5KG-416x416.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/07/Versao-5KG.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\07\Versao-5KG.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/08/Logo-EquiNutri-300x89.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\08\Logo-EquiNutri-300x89.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/08/Logo-EquiNutri-324x96.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\08\Logo-EquiNutri-324x96.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/2021/08/Logo-EquiNutri.png
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\2021\08\Logo-EquiNutri.png
+Content Type: image/png
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/elementor/css/post-341.css?ver=1693181230
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\elementor\css\post-341.css
+Content Type: text/css
+
+Uri: https://lojaodocaipira.com.br/wp-content/uploads/elementor/css/post-41.css?ver=1693013720
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-content\uploads\elementor\css\post-41.css
+Content Type: text/css
+
+Uri: https://lojaodocaipira.com.br/wp-json/
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://lojaodocaipira.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Flojaodocaipira.com.br%2Fequi-nutri-complete%2F
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://lojaodocaipira.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Flojaodocaipira.com.br%2Fequi-nutri-complete%2F&format=xml
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://lojaodocaipira.com.br/wp-json/wp/v2/pages/341
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\wp-json\wp\v2\pages\341
+Content Type: application/json
+
+Uri: https://www.facebook.com/tr?id=1115308218481526&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\lojaodocaipira.com.br\tr
+Content Type: text/plain
+
