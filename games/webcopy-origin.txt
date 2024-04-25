@@ -1,0 +1,748 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.5.2
+File Name: C:\Downloaded Web Sites\gpbox.com.br\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\poppins\v21\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\poppins\v21\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\poppins\v21\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\poppins\v21\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\poppins\v21\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\poppins\v21\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\poppins\v21\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\poppins\v21\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\poppins\v21\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\poppins\v21\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\poppins\v21\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\gpbox.com.br\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://gpbox.com.br/
+File Name: C:\Downloaded Web Sites\gpbox.com.br\index.htm
+Content Type: text/html
+
+Uri: https://gpbox.com.br/comments/feed/
+File Name: C:\Downloaded Web Sites\gpbox.com.br\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://gpbox.com.br/feed/
+File Name: C:\Downloaded Web Sites\gpbox.com.br\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://gpbox.com.br/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.10.1
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://gpbox.com.br/wp-content/plugins/elementor-pro/assets/css/widget-animated-headline.min.css
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\plugins\elementor-pro\assets\css\widget-animated-headline.min.css
+Content Type: text/css
+
+Uri: https://gpbox.com.br/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.10.1
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://gpbox.com.br/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.10.1
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://gpbox.com.br/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.10.1
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://gpbox.com.br/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.10.1
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min.js
+Content Type: application/javascript
+
+Uri: https://gpbox.com.br/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.19.4
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://gpbox.com.br/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://gpbox.com.br/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://gpbox.com.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.19.4
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://gpbox.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.19.4
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://gpbox.com.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.19.4
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://gpbox.com.br/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.19.4
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://gpbox.com.br/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://gpbox.com.br/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://gpbox.com.br/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_italic_400.woff2
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_italic_400.woff2
+Content Type: font/woff2
+
+Uri: https://gpbox.com.br/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_400.woff2
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_normal_400.woff2
+Content Type: font/woff2
+
+Uri: https://gpbox.com.br/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_700.woff2
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_normal_700.woff2
+Content Type: font/woff2
+
+Uri: https://gpbox.com.br/wp-content/themes/twentytwentyfour/assets/fonts/inter/Inter-VariableFont_slnt,wght.woff2
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\themes\twentytwentyfour\assets\fonts\inter\Inter-VariableFont_slnt,wght.woff2
+Content Type: font/woff2
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/AnyConv.com__GPBOXNEW.fw_-1-1-150x150.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\AnyConv.com__GPBOXNEW.fw_-1-1-150x150.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/AnyConv.com__GPBOXNEW.fw_-1-1.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\AnyConv.com__GPBOXNEW.fw_-1-1.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/AnyConv.com__three-gamer-friends-on-beige-couch-e1521584441690-300x200.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\AnyConv.com__three-gamer-friends-on-beige-couch-e1521584441690-300x200.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/AnyConv.com__three-gamer-friends-on-beige-couch-e1521584441690.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\AnyConv.com__three-gamer-friends-on-beige-couch-e1521584441690.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/atari2600-150x150.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\atari2600-150x150.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/atari2600-300x300.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\atari2600-300x300.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/atari2600.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\atari2600.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/atari7800-150x150.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\atari7800-150x150.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/atari7800-300x300.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\atari7800-300x300.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/atari7800.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\atari7800.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/CAPAVIDEO-1536x864.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\CAPAVIDEO-1536x864.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/CAPAVIDEO.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\CAPAVIDEO.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/capcom-150x150.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\capcom-150x150.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/capcom-300x300.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\capcom-300x300.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/capcom.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\capcom.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/chatdois-472x1024.jpg
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\chatdois-472x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/chatrres-472x1024.jpg
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\chatrres-472x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/chatum-472x1024.jpg
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\chatum-472x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/chunlinken.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\chunlinken.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/computadornotebook.jpg
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\computadornotebook.jpg
+Content Type: image/jpeg
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/controlebanner.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\controlebanner.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/dreamcast-150x150.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\dreamcast-150x150.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/dreamcast-300x300.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\dreamcast-300x300.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/dreamcast.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\dreamcast.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/gameboyadvanced-150x150.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\gameboyadvanced-150x150.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/gameboyadvanced-150x150.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\gameboyadvanced-150x150.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/gameboyadvanced-300x300.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\gameboyadvanced-300x300.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/gameboyadvanced-300x300.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\gameboyadvanced-300x300.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/gameboyadvanced.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\gameboyadvanced.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/gameboyadvanced.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\gameboyadvanced.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/gamecube-150x150.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\gamecube-150x150.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/gamecube-300x300.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\gamecube-300x300.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/gamecube.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\gamecube.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/GPBOXNEW.fw_-1-150x150.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\GPBOXNEW.fw_-1-150x150.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/GPBOXNEW.fw_-1.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\GPBOXNEW.fw_-1.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/luzryu.jpg
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\luzryu.jpg
+Content Type: image/jpeg
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/luzryu.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\luzryu.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/mame-150x150.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\mame-150x150.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/mame-150x150.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\mame-150x150.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/mame-300x300.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\mame-300x300.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/mame-300x300.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\mame-300x300.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/mame.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\mame.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/mame.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\mame.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/mastersystem-150x150.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\mastersystem-150x150.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/mastersystem-300x300.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\mastersystem-300x300.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/mastersystem.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\mastersystem.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/megadrive-150x150.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\megadrive-150x150.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/megadrive-300x300.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\megadrive-300x300.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/megadrive.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\megadrive.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/modo-de-pagamento-1-1-1-1-1-300x30.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\modo-de-pagamento-1-1-1-1-1-300x30.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/modo-de-pagamento-1-1-1-1-1.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\modo-de-pagamento-1-1-1-1-1.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/modo-de-pagamento-1-1-1-2-300x30.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\modo-de-pagamento-1-1-1-2-300x30.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/modo-de-pagamento-1-1-1-2.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\modo-de-pagamento-1-1-1-2.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/naomi-150x150.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\naomi-150x150.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/naomi-300x300.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\naomi-300x300.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/naomi.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\naomi.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/neogeo-150x150.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\neogeo-150x150.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/neogeo-300x300.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\neogeo-300x300.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/neogeo.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\neogeo.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/nintendo64-150x150.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\nintendo64-150x150.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/nintendo64-300x300.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\nintendo64-300x300.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/nintendo64.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\nintendo64.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/perguntas.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\perguntas.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/placeholder.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\placeholder.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/promocao.webp
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\promocao.webp
+Content Type: image/webp
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/ps2-150x150.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\ps2-150x150.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/ps2-300x300.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\ps2-300x300.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/ps2.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\ps2.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/ps3-150x150.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\ps3-150x150.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/ps3-300x300.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\ps3-300x300.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/ps3.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\ps3.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/psx-150x150.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\psx-150x150.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/psx-300x300.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\psx-300x300.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/psx.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\psx.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/SEVEN-150x150.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\SEVEN-150x150.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/SEVEN-300x300.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\SEVEN-300x300.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/SEVEN-768x765.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\SEVEN-768x765.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/SEVEN.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\SEVEN.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/snes-150x150.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\snes-150x150.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/snes-300x300.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\snes-300x300.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/snes.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\snes.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/splash1.mp4
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\splash1.mp4
+Content Type: video/mp4
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/Suporte-GPBOX-2.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\Suporte-GPBOX-2.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/wii-150x150.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\wii-150x150.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/wii-300x300.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\wii-300x300.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/wii.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\wii.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/xbox360-150x150.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\xbox360-150x150.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/xbox360-300x300.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\xbox360-300x300.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/2024/03/xbox360.png
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\2024\03\xbox360.png
+Content Type: image/png
+
+Uri: https://gpbox.com.br/wp-content/uploads/elementor/css/global.css?ver=1712193097
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://gpbox.com.br/wp-content/uploads/elementor/css/post-6.css?ver=1712193096
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\elementor\css\post-6.css
+Content Type: text/css
+
+Uri: https://gpbox.com.br/wp-content/uploads/elementor/css/post-9.css?ver=1713623920
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-content\uploads\elementor\css\post-9.css
+Content Type: text/css
+
+Uri: https://gpbox.com.br/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://gpbox.com.br/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://gpbox.com.br/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://gpbox.com.br/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/javascript
+
+Uri: https://gpbox.com.br/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://gpbox.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://gpbox.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://gpbox.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://gpbox.com.br/wp-json/
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://gpbox.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Fgpbox.com.br%2F
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://gpbox.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Fgpbox.com.br%2F&format=xml
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://gpbox.com.br/wp-json/wp/v2/pages/9
+File Name: C:\Downloaded Web Sites\gpbox.com.br\wp-json\wp\v2\pages\9
+Content Type: application/json
+
+Uri: https://gpbox.com.br/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\gpbox.com.br\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://images.converteai.net/48a12100-5927-4c5c-8250-b60ceb8ad3b5/players/64850f732bc4c400090860c8/thumbnail.jpg
+File Name: C:\Downloaded Web Sites\gpbox.com.br\48a12100-5927-4c5c-8250-b60ceb8ad3b5\players\64850f732bc4c400090860c8\thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://www.facebook.com/tr?id=592759842370983&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\gpbox.com.br\tr
+Content Type: text/plain
+
